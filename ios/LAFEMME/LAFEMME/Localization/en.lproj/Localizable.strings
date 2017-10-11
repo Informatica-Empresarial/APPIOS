@@ -1,0 +1,148 @@
+/* 
+  Localizable.strings
+  LAFEMME
+
+  Created by Daniel Klinkert Houfer on 5/1/17.
+  Copyright © 2017 Daniel Klinkert Houfer. All rights reserved.
+*/
+
+
+// City
+
+"city_title"                    =   "Select the city for your service?";
+"other_city"                    =   "Other City";
+"no_services_available"         =   "Currently we are not present in the selected city, we are working to get there";
+
+"login_button"                  =   "Login";
+"register_button"               =   "Register";
+"forgot_password_button"        =   "Forgot Passoword";
+"logout_button"                 =   "Logout";
+"login_option"                  =   "or login with";
+"name"                          =   "Name";
+"lastname"                      =   "Last name";
+"email"                         =   "Email";
+"password"                      =   "Password";
+"confirm_password"              =   "Confirm password";
+"city"                          =   "City";
+"phone"                         =   "Phone";
+"address"                       =   "Address:";
+"signup_option"                 =   "or sign up with";
+"terms"                         =   "Terms and Conditions";
+"terms_label"                   =   "By registering you accept ";
+"profile_title"                 =   "Profile";
+"terms_title"                   =   "Terms and Conditions";
+"password_error"                =   "Password and confirm password does not match";
+"bad_email_format"              =   "Enter a valid email address";
+"create_new_account"            =   "Create new account";
+"register_with"                 =   "or register with";
+"welcome_message"               =   "Welcome ";
+
+/* Book Service */
+
+"program_button"                =   "Program";
+"sos_button"                    =   "Immediate Service - SOS";
+
+"location_message"              =   "Are you here?";
+
+"continue_button"               =   "Continue";
+
+"select_worker_title_label"     =   "Choose an expert";
+"random_worker"                 =   "Random";
+"book_button"                   =   "Book";
+"summary_title"                 =   "Thanks for choosing LA FEMME";
+"summary_subtitle"              =   "Here is the summary of your service";
+"summary_total"                 =   "Total:";
+"cancel_button"                 =   "Cancel";
+"date_title"                    =   "Date:";
+"time_title"                    =   "Time:";
+"terms_conditions"              =   "Terms and conditions: Valid at this location only. with any other offer or discount promotion. One voucher ";
+"chose_your_service"            =   "Choose your services";
+"move_pin"                      =   "Please update your location";
+"clear_filter"                  =   "Clear filter";
+
+
+/* My Services */
+"current_active_services"       =   "Pending";
+"history_services"              =   "Completed";
+"my_services_title"             =   "My Services";
+"pending_services"              =   "You don't have pending services";
+"completed_services"            =   "There are not completed services";
+
+/* Profile */
+"profile_title"                 =   "Profile";
+"make_sure_sos_off"             =   "Plase make sure SOS is off";
+"save_button"                   =   "Save";
+"enter_address"                 =   "Enter Address";
+
+
+/* Brand */
+"brand_title"                   =   "Book your appointment right now";
+"contact_us"                    =   "Contact us";
+
+
+/* Empty Cell */
+
+"sorry_message"                 = "We are sorry";
+"no_workers_availables"         = "There are no especialist available for the selected services, you might need to change your address or update the services";
+"no_availability"               = "Our Worker has the day full, please try another date";
+"no_services_available"         = "Currently there are no services available at your location";
+
+
+/* On Boarding */
+
+"first_page_title"              = "Book your appointment with time or choose SOS for an urgent service";
+"second_page_title"             = "Book an appointment with an expert in a few steps";
+"third_page_title"              = "You can find the best experts to take care about your hands and foots";
+"skyp_button"                   = "Skip";
+
+/* Show Worker */
+"show_worker_title"             = "Our Expert";
+"show_worker_sub_title"         = " soon you will be attending your service";
+"accept_button"                 = "Accept";
+"thanks_message"                = "Thank you for choosing la femme";
+
+/* Worker Home */
+"sos_availability"              = "SOS Availability";
+"timeout_sos"                   = "Time Out";
+"timeout_message"               = "Passed 30 minutes without appointments in SOS, If you want to continue in sos activate it again";
+
+/* Rate worker */
+"rate_title"                    = "Rate the quality of the service";
+"accept_button"                 = "Done";
+"issues_title"                  = "What could be improved";
+"professionalism"               = "Professionalism";
+"technique"                     = "Technique";
+"agility"                       = "Agility";
+"amiability"                    = "Kindness";
+"star_1_description"            = "Terrible";
+"star_2_description"            = "Bad";
+"star_3_description"            = "OK";
+"star_4_description"            = "Good";
+"star_5_description"            = "Excellent";
+"additional_comment"            = "Enter additional Comment (Optional) ";
+
+/* Forgot password */
+"forgot_password"               = "Forgot your password?";
+"enter_email"                   = "Enter email address";
+"email_sent"                    = "Email sent";
+"email_failure"                 = "We could not send the recovery email, please try again";
+
+/* Appointment Summary */
+"start_appointment_button"      = "Start Appointment";
+"finish_appointment_button"     = "Finish Appointment";
+
+
+/* Navigate to address */
+"navigate_title"                = "Navigate";
+"navigate_message"              = "Do you want to navigate with waze?";
+"waze_not_installed"            = "Waze is not installed on your device";
+"navigate_in_app"               = "Navigate in app";
+
+/* Select Address */
+"seletecAddress"                = "Selected Address:";
+"confirm_location"              = "Confirm Address";
+"additional_information"        = "More information (house number, office number)";
+
+
+
+

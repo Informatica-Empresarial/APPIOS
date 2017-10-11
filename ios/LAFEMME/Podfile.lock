@@ -1,0 +1,114 @@
+PODS:
+  - Alamofire (4.5.0)
+  - AlamofireImage (3.2.0):
+    - Alamofire (~> 4.1)
+  - AlamofireObjectMapper (4.1.0):
+    - Alamofire (~> 4.1)
+    - ObjectMapper (~> 2.0)
+  - Bolts (1.8.4):
+    - Bolts/AppLinks (= 1.8.4)
+    - Bolts/Tasks (= 1.8.4)
+  - Bolts/AppLinks (1.8.4):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.8.4)
+  - Crashlytics (3.8.5):
+    - Fabric (~> 1.6.3)
+  - DateTools (2.0.0)
+  - Fabric (1.6.12)
+  - FBSDKCoreKit (4.23.0):
+    - Bolts (~> 1.7)
+  - FBSDKLoginKit (4.23.0):
+    - FBSDKCoreKit
+  - GoogleMaps (2.4.0):
+    - GoogleMaps/Maps (= 2.4.0)
+  - GoogleMaps/Base (2.4.0)
+  - GoogleMaps/Maps (2.4.0):
+    - GoogleMaps/Base
+  - GooglePlacePicker (2.4.0):
+    - GoogleMaps (= 2.4.0)
+    - GooglePlaces (= 2.4.0)
+  - GooglePlaces (2.4.0):
+    - GoogleMaps/Base (= 2.4.0)
+  - HCSStarRatingView (1.5)
+  - ObjectMapper (2.2.7)
+  - Polyline (4.1.1)
+  - ReachabilitySwift (3)
+  - Realm (2.8.3):
+    - Realm/Headers (= 2.8.3)
+  - Realm/Headers (2.8.3)
+  - RealmSwift (2.8.3):
+    - Realm (= 2.8.3)
+  - RealReachability (1.1.8):
+    - RealReachability/Connection (= 1.1.8)
+    - RealReachability/Ping (= 1.1.8)
+  - RealReachability/Connection (1.1.8)
+  - RealReachability/Ping (1.1.8)
+  - RxCocoa (3.5.0):
+    - RxSwift (~> 3.4)
+  - RxRealm (0.6.0):
+    - RealmSwift (~> 2.5)
+    - RxSwift (~> 3.2)
+  - RxSwift (3.5.0)
+  - SBPickerSelector (1.2.0)
+  - SVProgressHUD (2.1.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - AlamofireObjectMapper
+  - Crashlytics
+  - DateTools (from `https://github.com/MatthewYork/DateTools`, branch `swift`)
+  - Fabric
+  - FBSDKLoginKit
+  - GooglePlacePicker
+  - HCSStarRatingView (~> 1.5)
+  - ObjectMapper
+  - Polyline (~> 4.0)
+  - ReachabilitySwift (~> 3)
+  - RealmSwift
+  - RealReachability
+  - RxCocoa
+  - RxRealm
+  - RxSwift
+  - SBPickerSelector
+  - SVProgressHUD
+
+EXTERNAL SOURCES:
+  DateTools:
+    :branch: swift
+    :git: https://github.com/MatthewYork/DateTools
+
+CHECKOUT OPTIONS:
+  DateTools:
+    :commit: c36311e6c0b28103f32311b54f1d27a334785bcc
+    :git: https://github.com/MatthewYork/DateTools
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  AlamofireImage: 157ed682cc81d3b9db4fb90c1f12180ac552d93b
+  AlamofireObjectMapper: 435adc82f5b367679bd9e71c4974a54efd0b2521
+  Bolts: 8a7995239dbe724f9cba2248b766d48b7ebdd322
+  Crashlytics: dfbae35ef22ca189240d230ad501feea4ee85d2d
+  DateTools: 9a92563d4567296fb6fa8ae586321159c514c8c6
+  Fabric: f050464eac45a2ce5a8e6e6a07e977c0df32fe28
+  FBSDKCoreKit: d7829f5a69901cd7296105328e4c3c3fc7da6518
+  FBSDKLoginKit: 6b92bd65f319d669d2b0730e49db495ef1660566
+  GoogleMaps: 8436ab5d1c25e36915b2f7416d0c8e3fa2e76c61
+  GooglePlacePicker: 755f10343d71280c7b016823e73fbae9625dfa8a
+  GooglePlaces: aafe5990fa7951e98e078761bbdaaf236d7e0c65
+  HCSStarRatingView: 1d18f79654735514cd6f00e6d90e38cb6320dc31
+  ObjectMapper: 65abcfd9a61cf7396cbd14a4fb22fddfcc46577e
+  Polyline: 381d1e699fd12508f97cfc468478dfbab67edf1f
+  ReachabilitySwift: f5b9bb30a0777fac8f09ce8b067e32faeb29bb64
+  Realm: 3601ef091c8c499a31101d8563b991e75546cdce
+  RealmSwift: 8183818515471b01a99abdd2970f8e4fd52b6f4a
+  RealReachability: e6c8a2bbffa316006e8c282efc1ee2567d61a920
+  RxCocoa: a0a09f45d0e5b48ecb6a4a7b4b4c89c88d3f633f
+  RxRealm: 323de579b50b5e0f4a3e087d5925021f976ffaf1
+  RxSwift: 18ee9d78b45edb3b0b7e79916b47a116e6dbc842
+  SBPickerSelector: ca8defc713bf229a35a06100ba2e6e96c424ac6a
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+
+PODFILE CHECKSUM: e144676654f33d76ea1defd86e0e72c515311b5b
+
+COCOAPODS: 1.3.0
